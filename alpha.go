@@ -6,5 +6,5 @@ import (
 )
 
 func Alpha() string {
-	return fmt.Sprintf("Alpha forwarding: %s", mvs_lib_gamma.Gamma())
+	return fmt.Sprintf("Alpha forwarding: %s", mvslibgamma.Gamma())
 }
